@@ -10,7 +10,7 @@
     }
 
     .Hero .Hero-container .Hero-text {
-        font-family: 'Courier New', Courier, monospace;
+        font-family: "Noto Sans Mono", monospace;
         color: #F3EFF5;
         text-align: center;
     }
